@@ -1,0 +1,13 @@
+.last-event .content .description{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 200px;
+}
+
+.last-event .content .header {
+    height: 4em; // Establecer una altura fija
+    overflow: hidden; // Para manejar títulos largos
+    text-overflow: ellipsis; // Para mostrar puntos suspensivos si el texto es demasiado largo
+    
+  }
