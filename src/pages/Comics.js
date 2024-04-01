@@ -14,6 +14,8 @@ export default function Comics() {
   
 
   return (
+   
+
     <div className="comics-page" >
       <div id="slide-comics-image"/>
       <Grid>
